@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi 👋 I'm Nuthelk Molina
 
-<!--
-**nuthelk/nuthelk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------------------------------------------------------
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:computer: Programming | :trophy: Chess | :video_game: Video Games:
+
+- :dart: I am a front-end Developer of web.
+- :earth_americas: I’m from Guarne - Colombia
+- :musical_keyboard: I like playing the piano
+- :mag: I’m currently working on a educational platform.
+- :unlock: I’m currently learning Angular.
+
