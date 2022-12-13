@@ -10,7 +10,7 @@
 - :earth_americas: I’m from Guarne - Colombia
 - :musical_keyboard: I like playing the piano
 - :mag: I’m currently working on a educational platform.
-- :unlock: I’m currently learning Angular.
+- :unlock: I’m currently learning NextJS.
 
 ![](https://media.tenor.com/pw9ZsUdsEYgAAAAi/capoo-blue-cat.gif)
 
